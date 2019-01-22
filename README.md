@@ -1,5 +1,5 @@
 # smart-home-4A
-Smart Home project
+Smart Home Project for the 4th year at INSA Toulouse
 
 ## Overview of the project ##
 When a **facial expression** is detected thanks to a **Kinect** camera, it triggers different actions : switching on/off a fan, lighting an LED, triggering the coffee machine. **OM2M** framework has been used as the link between the hardware and the software, an **Android app** on which the user can choose which action corresponds to an expression.

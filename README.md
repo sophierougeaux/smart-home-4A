@@ -8,3 +8,5 @@ When a **facial expression** is detected thanks to a **Kinect** camera, it trigg
 This repository contains the codes for the **ESP32** controller to which a servomotor is connected, and the codes for the **Intel Edison** to which a fan and an LED are connected.
 The **REST requests** for OM2M are included in both codes.
 
+## Visuals ##
+![Image of the Intel Edison and its actuators](assets/edison.jpg)

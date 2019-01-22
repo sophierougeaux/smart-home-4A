@@ -3,6 +3,7 @@ Smart Home project
 
 ## Overview of the project ##
 When a **facial expression** is detected thanks to a **Kinect** camera, it triggers different actions : switching on/off a fan, lighting an LED, triggering the coffee machine. **OM2M** framework has been used as the link between the hardware and the software, an **Android app** on which the user can choose which action corresponds to an expression.
+
 **Watch the video of the project : https://www.youtube.com/watch?v=yCqT34IbnhM**
 
 ## Content ##
